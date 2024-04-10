@@ -1,0 +1,22 @@
+{
+  "name": "addnumbers-package",
+  "version": "1.0.0",
+  "description": "npm package to add numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sanika-Apte99/addnumberspackage.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "SA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sanika-Apte99/addnumberspackage/issues"
+  },
+  "homepage": "https://github.com/Sanika-Apte99/addnumberspackage#readme"
+}
